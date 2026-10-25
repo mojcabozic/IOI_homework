@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Part 1 - Palmer Penguins</title>
+
+    <!-- Load Vega, Vega-Lite, and Vega-Embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
+</head>
+
+<body>
+    <h1>Palmer Penguins Dataset</h1>
+
+    <div id="chart"></div>
+
+    <script>
+        const spec = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+
+            "data": {
+                "url": "penguins.json",
+                "format": {"type": "json"}
+            },
+
+            "mark": "point",
+
+            "encoding": {
+                "x": {
+                    "field": "bill_length_mm",
+                    "type": "quantitative",
+                    "title": "Bill Length (mm)"
+                },
+                "y": {
+                    "field": "bill_depth_mm",
+                    "type": "quantitative",
+                    "title": "Bill Depth (mm)"
+                },
+                "color": {
+                    "field": "species",
+                    "type": "nominal",
+                    "title": "Species"
+                },
+                "tooltip": [
+                    {"field": "species"},
+                    {"field": "bill_length_mm"},
+                    {"field": "bill_depth_mm"},
+                    {"field": "flipper_length_mm"}
+                ]
+            }
+        };
+
+        vegaEmbed("#chart", spec);
+    </script>
+</body>
+</html>
