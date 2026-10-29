@@ -1,0 +1,90 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="windows-1250";
+LANGUAGE="sl";
+LANGUAGES="sl","en";
+CREATION-DATE="20220615 10:30";
+DECIMALS=0;
+MATRIX="1817608S";
+COPYRIGHT=YES;
+SUBJECT-CODE="186";
+SUBJECT-AREA="Energetika - Energy";
+DESCRIPTION="Poraba elektriène energije (kWh) v proizvodnih in storitvenih dejavnostih (SKD 2008), obèine, Slovenija, meseèno";
+TITLE="Poraba elektriène energije (kWh) po: OBÈINE, SKD DEJAVNOST ,  MESEC";
+CONTENTS="Poraba elektriène energije (kWh)";
+STUB="OBÈINE","SKD DEJAVNOST";
+HEADING="MESEC";
+VARIABLECODE("OBÈINE")="OBÈINE";
+VALUES("OBÈINE")="SLOVENIJA";
+VARIABLECODE("SKD DEJAVNOST")="SKD DEJAVNOST";
+VALUES("SKD DEJAVNOST")="SKD Dejavnost - SKUPAJ";
+VARIABLECODE("MESEC")="MESEC";
+VALUES("MESEC")="2020M01","2020M02","2020M03","2020M04","2020M05","2020M06","2020M07","2020M08","2020M09","2020M10","2020M11","2020M12","2021M01","2021M02","2021M03","2021M04","2021M05","2021M06","2021M07","2021M08","2021M09","2021M10","2021M11","2021M12","2022M01",
+"2022M02","2022M03","2022M04","2022M05","2022M06","2022M07","2022M08","2022M09","2022M10","2022M11","2022M12","2023M01","2023M02","2023M03","2023M04","2023M05","2023M06","2023M07","2023M08","2023M09","2023M10","2023M11","2023M12","2024M01","2024M02",
+"2024M03","2024M04","2024M05","2024M06","2024M07","2024M08","2024M09","2024M10","2024M11","2024M12","2025M01","2025M02","2025M03","2025M04","2025M05","2025M06","2025M07","2025M08","2025M09","2025M10","2025M11","2025M12","2026M01","2026M02","2026M03",
+"2026M04","2026M05","2026M06","2026M07 (zaèasni podatki)","2026M08 (zaèasni podatki)","2026M09 (zaèasni podatki)";
+TIMEVAL("MESEC")=TLIST(M1),"202001","202002","202003","202004","202005","202006","202007","202008","202009","202010","202011","202012","202101","202102","202103","202104","202105","202106","202107","202108","202109","202110","202111","202112","202201","202202","202203","202204","202205","202206","202207","202208","202209","202210","202211","202212","202301","202302","202303","202304","202305","202306","202307","202308","202309","202310","202311","202312","202401","202402","202403","202404","202405","202406","202407","202408","202409","202410","202411","202412","202501","202502","202503","202504","202505","202506","202507","202508","202509","202510","202511","202512","202601","202602","202603","202604","202605","202606","202607","202608","202609";
+CODES("OBÈINE")="0";
+CODES("SKD DEJAVNOST")="TOTAL";
+CODES("MESEC")="2020M01","2020M02","2020M03","2020M04","2020M05","2020M06","2020M07","2020M08","2020M09","2020M10","2020M11","2020M12","2021M01","2021M02","2021M03","2021M04","2021M05","2021M06","2021M07","2021M08","2021M09","2021M10","2021M11","2021M12","2022M01",
+"2022M02","2022M03","2022M04","2022M05","2022M06","2022M07","2022M08","2022M09","2022M10","2022M11","2022M12","2023M01","2023M02","2023M03","2023M04","2023M05","2023M06","2023M07","2023M08","2023M09","2023M10","2023M11","2023M12","2024M01","2024M02",
+"2024M03","2024M04","2024M05","2024M06","2024M07","2024M08","2024M09","2024M10","2024M11","2024M12","2025M01","2025M02","2025M03","2025M04","2025M05","2025M06","2025M07","2025M08","2025M09","2025M10","2025M11","2025M12","2026M01","2026M02","2026M03",
+"2026M04","2026M05","2026M06","2026M07","2026M08","2026M09";
+LAST-UPDATED="20261026 10:30";
+UNITS="kWh";
+CONTACT="Statistièni urad RS, T: (01) 241 64 04, E: gp.surs@gov.si";
+DATABASE="SI-STAT";
+SOURCE="Statistièni urad Republike Slovenije";
+NOTEX="Podatki za zadnje tri mesece so zaèasni. Ob vsakokratni objavi se podatki za zadnje tri mesece lahko popravijo in dopolnijo z novimi podatki.##Podatki za obdobje od decembra 2024 naprej so preraèunani na SKD 2008 z verjetnostnim prevajanjem agregiranih p"
+"odatkov.##Nekatere vrednosti porabljene elektriène energije, izmerjene z naprednimi števci, so negativne zaradi popravkov odstopanj pri posameznih števcih, ugotovljenih za predhodna obdobja.##Poraba elektriène energije, izmerjena z naprednimi merilniki, "
+"ne vkljuèuje elektriène energije, proizvedene iz fotovoltaiènih elektrarn, ki je gospodinjstvo ali poslovni subjekt ni oddalo v distribucijski sistem, temveè jo je porabilo zase.";
+NOTEX("SKD DEJAVNOST")="V prehodnem obdobju po zaèetku veljavnosti <A class='seznam' HREF=https://www.stat.si/StatWeb/News/Index/13313 TARGET=_blank>SKD 2025 </A> statistiène podatke še zbiramo in objavljamo po SKD 2008. Prehodna obdobja bodo po posameznih raziskovanjih razlièn"
+"o dolga.";
+NOTE="Povezane vsebine:#- <A class=seznam HREF=http://www.stat.si/StatWeb/File/DocSysFile/8261 target=_blank>Metodološka pojasnila</A>";
+NOTE("OBÈINE")="Podatki so teritorialno razvršèeni po uredbi o Standardni klasifikaciji teritorialnih enot (<A class='seznam' HREF=http://www.stat.si/StatWeb/glavnanavigacija/metode-in-klasifikacije/klasifikacije TARGET=_blank>opis in pojasnila</A>), raven SKTE 5. Podat"
+"ki o spremembah posameznih obèin so dostopni na <A class=seznam HREF=https://www.stat.si/StatWeb/File/DocSysFile/9432/ TARGET=_blank>povezavi</A>. V Seznamu obèin s spremembami obmoèij obèin od leta 1995 dalje je opisana vrsta spremembe, naveden je datum"
+", s katerim je opisana teritorialna sprememba upoštevana pri teritorialnem razvršèanju enot za statistiène namene ter naveden Uradni list, v katerem so bile objavljene omenjene teritorialne opombe. V seznamu obèin je navedeno zadnje veljavno stanje imen "
+"obèin.#";
+DATASYMBOL1="N";
+DATASYMBOL2="-";
+DATASYMBOL4="z";
+NEXT-UPDATE="20261125 10:30";
+SUBJECT-AREA[en]="Energy";
+DESCRIPTION[en]="Consumption of electrical energy (kWh) in production and service activities (NACE Rev. 2), municipalities, Slovenia, monthly";
+TITLE[en]="Consumption by MUNICIPALITIES, ACTIVITY and MONTH";
+CONTENTS[en]="Consumption";
+STUB[en]="MUNICIPALITIES","ACTIVITY";
+HEADING[en]="MONTH";
+VARIABLECODE[en]("MUNICIPALITIES")="OBÈINE";
+VALUES[en]("MUNICIPALITIES")="SLOVENIA";
+VARIABLECODE[en]("ACTIVITY")="SKD DEJAVNOST";
+VALUES[en]("ACTIVITY")="Activity - TOTAL";
+VARIABLECODE[en]("MONTH")="MESEC";
+VALUES[en]("MONTH")="2020M01","2020M02","2020M03","2020M04","2020M05","2020M06","2020M07","2020M08","2020M09","2020M10","2020M11","2020M12","2021M01","2021M02","2021M03","2021M04","2021M05","2021M06","2021M07","2021M08","2021M09","2021M10","2021M11","2021M12","2022M01",
+"2022M02","2022M03","2022M04","2022M05","2022M06","2022M07","2022M08","2022M09","2022M10","2022M11","2022M12","2023M01","2023M02","2023M03","2023M04","2023M05","2023M06","2023M07","2023M08","2023M09","2023M10","2023M11","2023M12","2024M01","2024M02",
+"2024M03","2024M04","2024M05","2024M06","2024M07","2024M08","2024M09","2024M10","2024M11","2024M12","2025M01","2025M02","2025M03","2025M04","2025M05","2025M06","2025M07","2025M08","2025M09","2025M10","2025M11","2025M12","2026M01","2026M02","2026M03",
+"2026M04","2026M05","2026M06","2026M07 (provisional data)","2026M08 (provisional data)","2026M09 (provisional data)";
+TIMEVAL[en]("MONTH")=TLIST(M1),"202001","202002","202003","202004","202005","202006","202007","202008","202009","202010","202011","202012","202101","202102","202103","202104","202105","202106","202107","202108","202109","202110","202111","202112","202201","202202","202203","202204","202205","202206","202207","202208","202209","202210","202211","202212","202301","202302","202303","202304","202305","202306","202307","202308","202309","202310","202311","202312","202401","202402","202403","202404","202405","202406","202407","202408","202409","202410","202411","202412","202501","202502","202503","202504","202505","202506","202507","202508","202509","202510","202511","202512","202601","202602","202603","202604","202605","202606","202607","202608","202609";
+CODES[en]("MUNICIPALITIES")="0";
+CODES[en]("ACTIVITY")="TOTAL";
+LAST-UPDATED[en]="20261026 10:30";
+UNITS[en]="kWh";
+CONTACT[en]="Statistical Office of the Republic of Slovenia, T: +386 1 241 64 04, E: gp.surs@gov.si";
+DATABASE[en]="SI-STAT";
+SOURCE[en]="Statistical Office of the Republic of Slovenia";
+NOTEX[en]="Data for the last 3 months are provisional. With each release the data for the last 3 months can be corrected and supplemented with new data.##Data from the reference period December 2024 on have been recalculated according to SKD 2008 using probabilisti"
+"c conversion of aggregated data.##Some electricity consumption values measured using advanced metres are negative due to corrections of deviations in individual metres detected for previous periods.##Electricity consumption measured by advanced meters do"
+"es not include electricity generated from photovoltaic power plants, which the household or business entity did not send to the distribution system but used for itself.";
+NOTEX[en]("ACTIVITY")="During the transition period after <A class='seznam' HREF=https://www.stat.si/StatWeb/en/News/Index/13313 TARGET=_blank>SKD 2025 (NACE Rev. 2.1) </A> entering into force, statistical data will still be collected and published according to SKD 2008 (NACE "
+"Rev. 2). The transition periods will vary depending on the individual surveys.";
+NOTE[en]="Linked content:#- <A class=seznam HREF=http://www.stat.si/StatWeb/File/DocSysFile/8086 target=_blank>Methodological explanations</A>";
+NOTE[en]("MUNICIPALITIES")="Data are territorially classified according to the Decree on the Standard Classification of Territorial Units <A class='seznam' HREF=https://www.stat.si/StatWeb/en/Methods/Classifications TARGET=_blank>description and explanations</A>, level SKTE 5. Data"
+" on changes of individual municipalities are available at the <A class=seznam HREF=https://www.stat.si/StatWeb/File/DocSysFile/9433/ TARGET=_blank>link</A>. In the list Slovene municipalities (by alphabet) and description on their territorial changes sin"
+"ce 1995 the type of change is described together with the date when the described territorial change was taken into account in the territorial classification of units for statistical purposes and the Official Journal in which the mentioned territorial ch"
+"anges were published. In the list of municipalities the last valid situation regarding the names of municipalities is stated.#";
+DATASYMBOL1[en]="N";
+DATASYMBOL2[en]="-";
+DATASYMBOL4[en]="z";
+DATA=
+689802696 648710061 627447173 487349444 542397851 594512567 651125511 629187993 659288874 651950651 623225327 612437099 636521524 592514412 675066262 608421961 640326536 676897680 679049737 647056295 657511621 657325114 654935996 676519221 661502654 625410934 688271748 606847999 653363538 675438069 660157924 627811306 628056949 610429731 606237402 612232185 634528167 590335471 640006676 557910822 595990994 606678700 593464427 558588968 587501792 589005211 598279853 588894599 639388993 581875998 602134522 565474626 571396330 578766083 625388850 582173289 601399944 570668933 625357268 605059475 626455162 592222566 594371576 574803304 548932049 587634715 604742131 553025641 587805940 586257665 657426541 551866990 648324462 571722560 609075641 546096271 569048307 594697553 617708079 592678262 603539209 
+;

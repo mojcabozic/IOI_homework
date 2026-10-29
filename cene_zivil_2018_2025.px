@@ -1,0 +1,135 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="windows-1250";
+LANGUAGE="sl";
+LANGUAGES="sl","en";
+CREATION-DATE="20180531 10:30";
+DECIMALS=5;
+SHOWDECIMALS=2;
+MATRIX="0411005S";
+COPYRIGHT=YES;
+SUBJECT-CODE="0411005";
+SUBJECT-AREA="Cene-Prices";
+DESCRIPTION="Povpreène drobnoprodajne cene izdelkov in storitev, Slovenija, letno";
+TITLE="Povpreène drobnoprodajne cene izdelkov in storitev po: IZDELKI IN STORITVE, MERITVE ,  LETO";
+CONTENTS="Povpreène drobnoprodajne cene izdelkov in storitev";
+STUB="IZDELKI IN STORITVE";
+HEADING="MERITVE","LETO";
+VARIABLECODE("IZDELKI IN STORITVE")="IZDELKI IN STORITVE";
+VALUES("IZDELKI IN STORITVE")="...Riž, beli (kg)","...Moka, pšenièna, razen polnozrnata (kg)","...Kruh (bel, polbel, èrn) (kg)","...Testenine (kg)","...Kosmièi za zajtrk (kg)","...Meso, goveje s kostjo (kg)","...Meso, svinjsko s kostjo (kg)","...Meso, pišèanèje brez kosti (kg)",
+"...Meso, mleto mešano (kg)","...Mleko, trajno, polnomastno (l)","...Jogurt (kg)","...Sir (kg)","...Skuta (kg)","...Jajca (10 kosov)","...Maslo (kg)","...Olje, olivno (l)","...Olje, jedilno (l)","...Limone (kg)","...Pomaranèe (kg)","...Jabolka (kg)",
+"...Banane (kg)","...Breskve (kg)","...Jagode (kg)","...Cvetaèa (kg)","...Paradižnik, sveži (kg)","...Èebula (kg)","...Korenje (kg)","...Èesen (kg)","...Zelje in repa, kisla (kg)","...Krompir (kg)","...Sladkor, beli (kg)","...Med, cvetlièni (kg)",
+"...Džem (kg)","...Èokolada (kg)","...Sladoled (l)","...Kis (l)","...Sol, kuhinjska (kg)","...Otroška hrana, za hitro pripravo (kg)","...Kava, klasièna (kg)","...Èaj (zavitek)","...Mineralna voda, gazirana (l)","...Mineralna voda, negazirana (l)",
+"...Brezalkoholna pijaèa, gazirana (l)","...Sok, 100 % (l)","...Naravno žganje (l)","...Vino, namizno (l)","...Vino, kakovostno (l)","...Pivo, lager (l)";
+VARIABLECODE("MERITVE")="MERITVE";
+VALUES("MERITVE")="Povpreèna drobnoprodajna cena (EUR)";
+VARIABLECODE("LETO")="LETO";
+VALUES("LETO")="2018","2019","2020","2021","2022","2023","2024","2025";
+TIMEVAL("LETO")=TLIST(A1),"2018","2019","2020","2021","2022","2023","2024","2025";
+CODES("IZDELKI IN STORITVE")="0111101000","0111201000","0111301000","0111601000","0111702000","0112102000","0112202000","0112402000","0112801000","0114102000","0114401000","0114501000","0114505000","0114701000","0115101000","0115301000","0115401000","0116101000","0116102000",
+"0116103000","0116105000","0116106000","0116107000","0117103000","0117110000","0117111000","0117113000","0117114000","0117302000","0117401000","0118101000","0118201000","0118202000","0118302000","0118501000","0119103000","0119201000","0119301000",
+"0121101000","0121201000","0122101000","0122102000","0122202000","0122302000","0211101000","0212101000","0212104000","0213101000";
+CODES("MERITVE")="1";
+CODES("LETO")="2018","2019","2020","2021","2022","2023","2024","2025";
+LAST-UPDATED="20260106 10:30";
+UNITS="EUR";
+CONTACT="Statistièni urad RS, T: (01) 241 64 04, E: gp.surs@gov.si";
+DATABASE="SI-STAT";
+SOURCE="Statistièni urad Republike Slovenije";
+NOTEX="Od januarja 2018 dalje kot vir podatkov za izraèun povpreènih letnih drobnoprodajnih cen izdelkov v prvih dveh skupinah po klasifikaciji ECOICOP, tj. hrana in brezalkoholne pijaèe ter alkoholne pijaèe in tobak, uporabljamo izkljuèno podatke iz podatkovni"
+"h baz trgovcev. Spremenjen je izraèun povpreènih letnih drobnoprodajnih cen izdelkov in storitev, in sicer jih raèunamo z geometrijsko sredino (do leta 2018 z artimetièno).##Specifikacija posameznih izdelkov (elementarnih agregatov – EA) prvih dveh skupi"
+"n po ECOICOP je bolj ohlapna, v njih je zajetih veliko veè izdelkov, ki pa znotraj EA niso veè tako homogeni, kot so bili prejšnja leta. Zato tudi lom v seriji, saj povpreène letne drobnoprodajne cene hrane in pijaè niso primerljive s podatki prejšnjih l"
+"et.##Predhodnica te letne tabele s podatki do leta 2018 je premaknjena v arhiv.";
+NOTE="Povezane vsebine:#- <A class=seznam HREF=https://www.stat.si/statweb/File/DocSysFile/7800>Metodološka pojasnila</A>#";
+VALUENOTE("IZDELKI IN STORITVE","...Sok, 100 % (l)")="pred 2025 Sok (l)";
+VALUENOTE("IZDELKI IN STORITVE","...Pivo, lager (l)")="pred 2021 Pivo, domaèe (l)";
+DATASYMBOL1="N";
+DATASYMBOL2="-";
+DATASYMBOL4="z";
+NEXT-UPDATE="20270106 10:30";
+SUBJECT-AREA[en]="Cene-Prices";
+DESCRIPTION[en]="Average retail prices of goods and services, Slovenia, annually";
+TITLE[en]="Average retail prices of goods and services by GOODS AND SERVICES, MEASURES and YEAR";
+CONTENTS[en]="Average retail prices of goods and services";
+STUB[en]="GOODS AND SERVICES";
+HEADING[en]="MEASURES","YEAR";
+VARIABLECODE[en]("GOODS AND SERVICES")="IZDELKI IN STORITVE";
+VALUES[en]("GOODS AND SERVICES")="...Rice, white (kg)","…Flour, white, wholemeal excluded (kg)","…Bread (white,…) (kg)","...Pasta (kg)","…Breakfast cereals (kg)","…Beef with bone (kg)","…Pork with bone (kg)","…Boned chicken meat (kg)","…Meat, mixed minced (kg)","…Milk, UHT whole milk (l)",
+"…Yoghurt (kg)","...Cheese (kg)","…Curd (kg)","...Eggs (10 pieces)","...Butter (kg)","…Oil, olive (l)","...Oil, edible (l)","...Lemons (kg)","...Oranges (kg)","...Apples (kg)","...Bananas (kg)","...Peaches (kg)","...Strawberries (kg)","...Cauliflower (kg)",
+"...Tomato, fresh (kg)","...Onion (kg)","...Carrot (kg)","...Garlic (kg)","…Cabbage and turnip, sour (kg)","...Potato (kg)","…Sugar, white (kg)","…Flower honey (kg)","...Jam (kg)","…Chocolate (kg)","...Ice cream (l)","...Vinegar (l)","...Kitchen salt (kg)",
+"...Baby food, quick preparation (kg)","...Coffee, classic (kg)","...Tea (package)","…Mineral water, carbonated (l)","…Mineral water, still (l)","…Non-alcoholic beverages, carbonated (l)","...Juice, 100% (l)","...Natural spirit (l)","...Table wine (l)",
+"...Wine, quality (l)","…Lager beer (l)";
+VARIABLECODE[en]("MEASURES")="MERITVE";
+VALUES[en]("MEASURES")="Average annual retail prices (EUR)";
+VARIABLECODE[en]("YEAR")="LETO";
+VALUES[en]("YEAR")="2018","2019","2020","2021","2022","2023","2024","2025";
+TIMEVAL[en]("YEAR")=TLIST(A1),"2018","2019","2020","2021","2022","2023","2024","2025";
+CODES[en]("GOODS AND SERVICES")="0111101000","0111201000","0111301000","0111601000","0111702000","0112102000","0112202000","0112402000","0112801000","0114102000","0114401000","0114501000","0114505000","0114701000","0115101000","0115301000","0115401000","0116101000","0116102000",
+"0116103000","0116105000","0116106000","0116107000","0117103000","0117110000","0117111000","0117113000","0117114000","0117302000","0117401000","0118101000","0118201000","0118202000","0118302000","0118501000","0119103000","0119201000","0119301000",
+"0121101000","0121201000","0122101000","0122102000","0122202000","0122302000","0211101000","0212101000","0212104000","0213101000";
+CODES[en]("MEASURES")="1";
+LAST-UPDATED[en]="20260106 10:30";
+UNITS[en]="EUR";
+CONTACT[en]="Statistical Office of the Republic of Slovenia, T: +386 1 241 64 04, E: gp.surs@gov.si";
+DATABASE[en]="SI-STAT";
+SOURCE[en]="Statistical Office of the Republic of Slovenia";
+NOTEX[en]="Since January 2018 the source of data for the calculation of the average annual retail prices of goods and services for the first two divisions of the ECOICOP classification, e.g. Food and non-alcoholic beverages and Alcoholic beverages and tobacco, are "
+"exclusively the scanner data (retailer's transaction data).  The calculation of average annual retail prices has been changed from arithmetic mean to geometric mean.##The specification of individual goods (elementary aggregates – EA) of the first two div"
+"isions of the ECOICOP is more loose. EAs include more goods than before and aren't as homogenic as in the previous years. Therefore, the break in the series, as the average annual retail prices of food and beverages are not comparable with data from prev"
+"ious years.##The preceding table with average annual retail prices till 2018 has been moved to the archive.";
+NOTE[en]="Linked content:#- <A class=seznam HREF=https://www.stat.si/statweb/File/DocSysFile/7978 >Methodological explanations</A>";
+VALUENOTE[en]("GOODS AND SERVICES","...Juice, 100% (l)")="before 2025 Juice (l)";
+VALUENOTE[en]("GOODS AND SERVICES","…Lager beer (l)")="before 2021 Domestic beer (l)";
+DATASYMBOL1[en]="N";
+DATASYMBOL2[en]="-";
+DATASYMBOL4[en]="z";
+DATA=
+2.07000 2.02000 2.05000 2.13000 2.32000 2.68000 2.59000 2.57000 
+0.66000 0.66000 0.72000 0.74000 0.92000 0.91000 0.87000 0.80000 
+2.13000 2.27000 2.42000 2.37000 2.87000 3.30000 3.42000 3.84000 
+2.58000 2.34000 2.49000 2.62000 3.10000 3.34000 3.27000 3.25000 
+5.00000 5.18000 5.19000 5.06000 5.70000 6.29000 6.61000 6.77000 
+5.25000 5.56000 6.27000 6.58000 7.46000 8.55000 9.82000 11.76000 
+4.62000 4.80000 5.82000 5.22000 5.44000 5.27000 4.96000 5.42000 
+7.27000 7.47000 7.92000 7.98000 8.62000 8.55000 8.27000 8.51000 
+5.05000 5.39000 6.62000 6.46000 7.05000 7.33000 6.80000 7.01000 
+0.74000 0.74000 0.77000 0.76000 1.00000 1.16000 1.12000 1.14000 
+2.12000 2.27000 2.25000 2.36000 2.57000 2.75000 2.72000 2.91000 
+7.57000 7.97000 8.36000 8.72000 11.12000 10.54000 10.41000 10.67000 
+3.81000 3.88000 3.94000 4.04000 4.45000 5.07000 5.04000 5.16000 
+1.67000 1.64000 1.80000 2.02000 2.09000 2.39000 2.38000 2.43000 
+8.11000 8.38000 8.44000 8.44000 10.05000 10.10000 10.02000 10.98000 
+7.76000 7.29000 7.34000 7.66000 7.75000 9.21000 13.82000 13.21000 
+1.40000 1.35000 1.39000 1.67000 2.60000 2.04000 1.55000 1.83000 
+2.07000 1.79000 2.03000 1.77000 1.85000 1.88000 1.89000 2.22000 
+1.24000 1.12000 1.40000 1.33000 1.46000 1.52000 1.50000 1.46000 
+1.35000 1.13000 1.53000 1.43000 1.51000 1.45000 1.49000 1.51000 
+1.20000 1.17000 1.15000 1.17000 1.32000 1.36000 1.27000 1.31000 
+1.84000 1.64000 1.82000 1.94000 2.15000 2.43000 2.33000 2.75000 
+4.63000 4.55000 5.81000 5.81000 5.73000 6.90000 7.49000 6.68000 
+1.15000 2.45000 2.50000 2.83000 2.61000 2.86000 3.06000 2.61000 
+2.86000 3.30000 3.11000 3.93000 4.65000 4.03000 4.44000 4.16000 
+1.35000 1.58000 1.30000 1.25000 1.48000 1.50000 1.48000 1.46000 
+1.08000 1.14000 1.06000 1.15000 1.10000 1.40000 1.27000 1.27000 
+7.72000 7.50000 7.85000 8.03000 7.40000 7.38000 7.66000 8.40000 
+1.70000 1.80000 1.82000 1.81000 1.93000 2.17000 2.23000 2.26000 
+0.77000 0.95000 0.77000 0.77000 0.94000 1.03000 1.04000 0.92000 
+0.83000 0.82000 0.86000 0.86000 1.19000 1.49000 1.45000 1.16000 
+7.90000 7.95000 8.10000 8.41000 9.25000 9.42000 9.24000 8.82000 
+5.60000 5.48000 6.17000 6.03000 6.70000 7.65000 7.71000 7.89000 
+9.46000 9.00000 9.37000 9.26000 9.40000 10.43000 11.81000 15.45000 
+3.19000 3.31000 3.50000 3.73000 4.02000 4.29000 4.07000 4.03000 
+1.45000 1.35000 1.45000 1.62000 1.71000 2.01000 2.04000 2.03000 
+0.69000 0.72000 0.80000 0.71000 0.80000 1.15000 1.52000 1.54000 
+8.18000 8.06000 8.18000 8.46000 9.57000 10.47000 10.66000 11.28000 
+9.24000 9.08000 9.00000 9.17000 10.37000 11.49000 12.19000 16.20000 
+1.35000 1.35000 1.44000 1.50000 1.62000 1.78000 1.89000 1.94000 
+0.41000 0.44000 0.50000 0.61000 0.63000 0.69000 0.73000 0.78000 
+0.53000 0.63000 0.62000 0.62000 0.77000 1.01000 1.08000 0.49000 
+0.77000 0.90000 0.92000 0.98000 1.14000 1.29000 1.33000 1.59000 
+1.37000 1.40000 1.43000 1.46000 1.52000 1.69000 1.85000 2.67000 
+14.37000 14.28000 15.55000 15.52000 16.40000 17.67000 17.84000 18.45000 
+1.98000 2.04000 2.05000 1.87000 2.19000 2.23000 2.22000 2.32000 
+4.85000 4.05000 4.24000 4.59000 4.70000 4.71000 4.96000 5.00000 
+1.77000 1.75000 1.76000 1.83000 1.93000 2.10000 2.24000 2.20000 
+;

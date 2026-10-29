@@ -1,0 +1,32 @@
+[
+  {
+    "leto": 2020,
+    "poraba_energije": 7417.44,
+    "cena_hrane": 3.7892
+  },
+  {
+    "leto": 2021,
+    "poraba_energije": 7802.15,
+    "cena_hrane": 3.86
+  },
+  {
+    "leto": 2022,
+    "poraba_energije": 7655.76,
+    "cena_hrane": 4.2323
+  },
+  {
+    "leto": 2023,
+    "poraba_energije": 7141.19,
+    "cena_hrane": 4.52
+  },
+  {
+    "leto": 2024,
+    "poraba_energije": 7149.08,
+    "cena_hrane": 4.701
+  },
+  {
+    "leto": 2025,
+    "poraba_energije": 7065.54,
+    "cena_hrane": 4.9815
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "leto": 2000,
+    "energija": 10664.0,
+    "povprecna_cena_hrane": 2.9198853485714285,
+    "povprecna_poraba_hrane": 39.358818037670595
+  },
+  {
+    "leto": 2001,
+    "energija": 11091.0,
+    "povprecna_cena_hrane": 3.2190606597222224,
+    "povprecna_poraba_hrane": 37.749201939441
+  },
+  {
+    "leto": 2002,
+    "energija": 11823.0,
+    "povprecna_cena_hrane": 3.319458457008245,
+    "povprecna_poraba_hrane": 36.18299611260511
+  },
+  {
+    "leto": 2003,
+    "energija": 12204.0,
+    "povprecna_cena_hrane": 3.3980559085580304,
+    "povprecna_poraba_hrane": 34.79473216869554
+  },
+  {
+    "leto": 2004,
+    "energija": 12679.0,
+    "povprecna_cena_hrane": 3.330830547147846,
+    "povprecna_poraba_hrane": 34.37760831393247
+  },
+  {
+    "leto": 2005,
+    "energija": 12872.0,
+    "povprecna_cena_hrane": 3.2998544819557623,
+    "povprecna_poraba_hrane": 33.29703304426009
+  },
+  {
+    "leto": 2006,
+    "energija": 13298.0,
+    "povprecna_cena_hrane": 3.3647832476635515,
+    "povprecna_poraba_hrane": 31.934881438631034
+  },
+  {
+    "leto": 2007,
+    "energija": 13405.0,
+    "povprecna_cena_hrane": 3.666373631284916,
+    "povprecna_poraba_hrane": 31.10011630298913
+  },
+  {
+    "leto": 2008,
+    "energija": 12945.0,
+    "povprecna_cena_hrane": 3.981886368715084,
+    "povprecna_poraba_hrane": 31.745645218707313
+  },
+  {
+    "leto": 2009,
+    "energija": 11423.0,
+    "povprecna_cena_hrane": 4.042580648769575,
+    "povprecna_poraba_hrane": 31.19438810816585
+  },
+  {
+    "leto": 2010,
+    "energija": 12063.0,
+    "povprecna_cena_hrane": 3.9593392617449665,
+    "povprecna_poraba_hrane": 31.5238581522825
+  },
+  {
+    "leto": 2012,
+    "energija": 12540.0,
+    "povprecna_cena_hrane": 4.0856107064017655,
+    "povprecna_poraba_hrane": 28.846666666666668
+  },
+  {
+    "leto": 2015,
+    "energija": 12895.0,
+    "povprecna_cena_hrane": 4.25406425120773,
+    "povprecna_poraba_hrane": 25.166666666666668
+  }
+]

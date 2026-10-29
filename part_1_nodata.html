@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Part 1 - Palmer Penguins</title>
+
+    <!-- Load Vega, Vega-Lite, and Vega-Embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
+</head>
+
+<body>
+    <h1>Palmer Penguins Dataset</h1>
+
+    <div id="chart"></div>
+
+    <div id="chart2"></div>
+
+    <div id="chart3"></div>
+
+    <script>
+        const spec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+
+        "title": {
+        "text": "Bill Length vs. Bill Depth vs. Body Mass",
+        "fontSize": 18,
+        "anchor": "start"
+        },
+
+        "data": {
+            "url": "penguins.json",
+            "format": {"type": "json"}
+        },
+
+        "width": 800,
+        "height": 550,
+        "padding": 20,
+
+        "mark": {
+            "type": "point",
+            //"filled": true,
+            "size": 100,
+            "opacity": 0.8
+        },
+
+        "encoding": {
+            "x": {
+            "field": "bill_length_mm",
+            "type": "quantitative",
+            "title": "Bill Length (mm)",
+            "scale": {
+                //"domain": [30, 60],
+                "zero": false
+            }
+            },
+
+            "y": {
+            "field": "bill_depth_mm",
+            "type": "quantitative",
+            "title": "Bill Depth (mm)",
+            "scale": {
+                //"domain": [13, 22],
+                "zero": false
+            }
+            },
+
+            "size": {
+            "field": "body_mass_g",
+            "type": "quantitative",
+            "title": "Body Mass (g)",
+            "scale": {
+                "zero": false
+                }
+            },
+
+            "color": {
+            "field": "species",
+            "type": "nominal",
+            "title": "Species"
+            },
+
+            "shape": {
+            "field": "species",
+            "type": "nominal",
+            "title": "Species",
+            "scale": {
+                "domain": ["Adelie", "Chinstrap", "Gentoo"],
+                "range": ["circle", "triangle-up", "diamond"]
+                }
+            },
+
+            "tooltip": [
+            {"field": "species", "title": "Species"},
+            {"field": "bill_length_mm", "title": "Bill Length (mm)"},
+            {"field": "bill_depth_mm", "title": "Bill Depth (mm)"},
+            {"field": "body_mass_g", "title": "Body Mass (g)"}
+            ]
+        }
+        };
+
+        vegaEmbed("#chart", spec);
+
+
+        const spec2 = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+
+            "title": {
+            "text": "Flipper Length vs. Bill Length vs. Body Mass",
+            "fontSize": 18,
+            "anchor": "start"
+            },
+
+            "data": {
+                "url": "penguins.json",
+                "format": {"type": "json"}
+            },
+
+            "width": 800,
+            "height": 550,
+            "padding": 20,
+
+            "mark": {
+                "type": "point",
+                //"filled": true,
+                "size": 100,
+                "opacity": 0.8
+            },
+
+            "encoding": {
+                "x": {
+                "field": "flipper_length_mm",
+                "type": "quantitative",
+                "title": "Flipper Length (mm)",
+                "scale": {"zero": false}
+                },
+
+                "y": {
+                "field": "bill_length_mm",
+                "type": "quantitative",
+                "title": "Bill Length (mm)",
+                "scale": {"zero": false}
+                },
+
+                "size": {
+                "field": "body_mass_g",
+                "type": "quantitative",
+                "title": "Body Mass (g)",
+                "scale": {"zero": false}
+                },
+
+                "color": {
+                "field": "species",
+                "type": "nominal",
+                "title": "Species"
+                },
+
+                "shape": {
+                "field": "species",
+                "type": "nominal",
+                "title": "Species",
+                "scale": {
+                    "domain": ["Adelie", "Chinstrap", "Gentoo"],
+                    "range": ["circle", "triangle-up", "diamond"]
+                }
+                },
+
+                "tooltip": [
+                {"field": "species", "title": "Species"},
+                {"field": "flipper_length_mm", "title": "Flipper Length (mm)"},
+                {"field": "bill_length_mm", "title": "Bill Length (mm)"},
+                {"field": "body_mass_g", "title": "Body Mass (g)"}
+                ]
+            }
+            };
+
+            vegaEmbed("#chart2", spec2);
+
+            const spec3 = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+
+            "title": {
+            "text": "Penguins - PCA",
+            "fontSize": 18,
+            "anchor": "start"
+            },
+
+            "data": {
+                "url": "pca_penguins.json",
+                "format": {"type": "json"}
+            },
+
+            "width": 800,
+            "height": 550,
+            "padding": 20,
+
+            "layer": [
+            {
+            "mark": {
+                "type": "point",
+                "filled": true,
+                "size": 100,
+                "opacity": 0.8
+            },
+            "encoding": {
+                "x": {
+                "field": "PC1",
+                "type": "quantitative",
+                "title": "PC1",
+                "scale": {"zero": false}
+                },
+                "y": {
+                "field": "PC2",
+                "type": "quantitative",
+                "title": "PC2",
+                "scale": {"zero": false}
+                },
+                "color": {
+                "field": "species",
+                "type": "nominal",
+                "title": "Species"
+                },
+                "tooltip": [
+                {"field": "species", "title": "Species"},
+                {"field": "PC1", "title": "PC1"},
+                {"field": "PC2", "title": "PC2"},
+                {"field": "bill_length_mm", "title": "Bill Length (mm)"},
+                {"field": "bill_depth_mm", "title": "Bill Depth (mm)"},
+                {"field": "flipper_length_mm", "title": "Flipper Length (mm)"}
+                ]
+            }
+            },
+            {
+            "data": {
+                "values": [
+                {"PC1": -1, "PC2": -2.5},
+                {"PC1": 2.5, "PC2": 3}
+                ]
+            },
+            "mark": {
+                "type": "line",
+                "color": "black",
+                "strokeDash": [6, 4],
+                "strokeWidth": 2
+            },
+            "encoding": {
+                "x": {"field": "PC1", "type": "quantitative"},
+                "y": {"field": "PC2", "type": "quantitative"}
+            }
+            }
+        ]
+        };
+
+        vegaEmbed("#chart3", spec3);
+
+    </script>
+</body>
+</html>

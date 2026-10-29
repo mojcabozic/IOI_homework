@@ -1,0 +1,1274 @@
+[
+  {
+    "obcina": "Ajdovščina",
+    "leto": "2025",
+    "stevilo_studentov": "780.00",
+    "stevilo_prebivalcev": "19895.00"
+  },
+  {
+    "obcina": "Ankaran/Ancarano",
+    "leto": "2025",
+    "stevilo_studentov": "129.00",
+    "stevilo_prebivalcev": "3446.00"
+  },
+  {
+    "obcina": "Apače",
+    "leto": "2025",
+    "stevilo_studentov": "83.00",
+    "stevilo_prebivalcev": "3563.00"
+  },
+  {
+    "obcina": "Beltinci",
+    "leto": "2025",
+    "stevilo_studentov": "283.00",
+    "stevilo_prebivalcev": "8129.00"
+  },
+  {
+    "obcina": "Benedikt",
+    "leto": "2025",
+    "stevilo_studentov": "91.00",
+    "stevilo_prebivalcev": "2738.00"
+  },
+  {
+    "obcina": "Bistrica ob Sotli",
+    "leto": "2025",
+    "stevilo_studentov": "56.00",
+    "stevilo_prebivalcev": "1335.00"
+  },
+  {
+    "obcina": "Bled",
+    "leto": "2025",
+    "stevilo_studentov": "282.00",
+    "stevilo_prebivalcev": "8154.00"
+  },
+  {
+    "obcina": "Bloke",
+    "leto": "2025",
+    "stevilo_studentov": "47.00",
+    "stevilo_prebivalcev": "1554.00"
+  },
+  {
+    "obcina": "Bohinj",
+    "leto": "2025",
+    "stevilo_studentov": "153.00",
+    "stevilo_prebivalcev": "5238.00"
+  },
+  {
+    "obcina": "Borovnica",
+    "leto": "2025",
+    "stevilo_studentov": "181.00",
+    "stevilo_prebivalcev": "4706.00"
+  },
+  {
+    "obcina": "Bovec",
+    "leto": "2025",
+    "stevilo_studentov": "76.00",
+    "stevilo_prebivalcev": "3004.00"
+  },
+  {
+    "obcina": "Braslovče",
+    "leto": "2025",
+    "stevilo_studentov": "222.00",
+    "stevilo_prebivalcev": "5919.00"
+  },
+  {
+    "obcina": "Brda",
+    "leto": "2025",
+    "stevilo_studentov": "176.00",
+    "stevilo_prebivalcev": "5584.00"
+  },
+  {
+    "obcina": "Brezovica",
+    "leto": "2025",
+    "stevilo_studentov": "581.00",
+    "stevilo_prebivalcev": "13133.00"
+  },
+  {
+    "obcina": "Brežice",
+    "leto": "2025",
+    "stevilo_studentov": "761.00",
+    "stevilo_prebivalcev": "24402.00"
+  },
+  {
+    "obcina": "Cankova",
+    "leto": "2025",
+    "stevilo_studentov": "41.00",
+    "stevilo_prebivalcev": "1754.00"
+  },
+  {
+    "obcina": "Celje",
+    "leto": "2025",
+    "stevilo_studentov": "1704.00",
+    "stevilo_prebivalcev": "49628.00"
+  },
+  {
+    "obcina": "Cerklje na Gorenjskem",
+    "leto": "2025",
+    "stevilo_studentov": "325.00",
+    "stevilo_prebivalcev": "7944.00"
+  },
+  {
+    "obcina": "Cerknica",
+    "leto": "2025",
+    "stevilo_studentov": "445.00",
+    "stevilo_prebivalcev": "11848.00"
+  },
+  {
+    "obcina": "Cerkno",
+    "leto": "2025",
+    "stevilo_studentov": "162.00",
+    "stevilo_prebivalcev": "4423.00"
+  },
+  {
+    "obcina": "Cerkvenjak",
+    "leto": "2025",
+    "stevilo_studentov": "55.00",
+    "stevilo_prebivalcev": "2254.00"
+  },
+  {
+    "obcina": "Cirkulane",
+    "leto": "2025",
+    "stevilo_studentov": "65.00",
+    "stevilo_prebivalcev": "2364.00"
+  },
+  {
+    "obcina": "Črenšovci",
+    "leto": "2025",
+    "stevilo_studentov": "116.00",
+    "stevilo_prebivalcev": "3899.00"
+  },
+  {
+    "obcina": "Črna na Koroškem",
+    "leto": "2025",
+    "stevilo_studentov": "82.00",
+    "stevilo_prebivalcev": "3012.00"
+  },
+  {
+    "obcina": "Črnomelj",
+    "leto": "2025",
+    "stevilo_studentov": "429.00",
+    "stevilo_prebivalcev": "14213.00"
+  },
+  {
+    "obcina": "Destrnik",
+    "leto": "2025",
+    "stevilo_studentov": "78.00",
+    "stevilo_prebivalcev": "2695.00"
+  },
+  {
+    "obcina": "Divača",
+    "leto": "2025",
+    "stevilo_studentov": "111.00",
+    "stevilo_prebivalcev": "4535.00"
+  },
+  {
+    "obcina": "Dobje",
+    "leto": "2025",
+    "stevilo_studentov": "47.00",
+    "stevilo_prebivalcev": "960.00"
+  },
+  {
+    "obcina": "Dobrepolje",
+    "leto": "2025",
+    "stevilo_studentov": "141.00",
+    "stevilo_prebivalcev": "3937.00"
+  },
+  {
+    "obcina": "Dobrna",
+    "leto": "2025",
+    "stevilo_studentov": "71.00",
+    "stevilo_prebivalcev": "2324.00"
+  },
+  {
+    "obcina": "Dobrova - Polhov Gradec",
+    "leto": "2025",
+    "stevilo_studentov": "367.00",
+    "stevilo_prebivalcev": "8064.00"
+  },
+  {
+    "obcina": "Dobrovnik/Dobronak",
+    "leto": "2025",
+    "stevilo_studentov": "30.00",
+    "stevilo_prebivalcev": "1238.00"
+  },
+  {
+    "obcina": "Dol pri Ljubljani",
+    "leto": "2025",
+    "stevilo_studentov": "271.00",
+    "stevilo_prebivalcev": "6420.00"
+  },
+  {
+    "obcina": "Dolenjske Toplice",
+    "leto": "2025",
+    "stevilo_studentov": "156.00",
+    "stevilo_prebivalcev": "3680.00"
+  },
+  {
+    "obcina": "Domžale",
+    "leto": "2025",
+    "stevilo_studentov": "1536.00",
+    "stevilo_prebivalcev": "38190.00"
+  },
+  {
+    "obcina": "Dornava",
+    "leto": "2025",
+    "stevilo_studentov": "88.00",
+    "stevilo_prebivalcev": "2937.00"
+  },
+  {
+    "obcina": "Dravograd",
+    "leto": "2025",
+    "stevilo_studentov": "296.00",
+    "stevilo_prebivalcev": "8816.00"
+  },
+  {
+    "obcina": "Duplek",
+    "leto": "2025",
+    "stevilo_studentov": "232.00",
+    "stevilo_prebivalcev": "7057.00"
+  },
+  {
+    "obcina": "Gorenja vas - Poljane",
+    "leto": "2025",
+    "stevilo_studentov": "313.00",
+    "stevilo_prebivalcev": "7724.00"
+  },
+  {
+    "obcina": "Gorišnica",
+    "leto": "2025",
+    "stevilo_studentov": "154.00",
+    "stevilo_prebivalcev": "4213.00"
+  },
+  {
+    "obcina": "Gorje",
+    "leto": "2025",
+    "stevilo_studentov": "106.00",
+    "stevilo_prebivalcev": "2732.00"
+  },
+  {
+    "obcina": "Gornja Radgona",
+    "leto": "2025",
+    "stevilo_studentov": "248.00",
+    "stevilo_prebivalcev": "8519.00"
+  },
+  {
+    "obcina": "Gornji Grad",
+    "leto": "2025",
+    "stevilo_studentov": "61.00",
+    "stevilo_prebivalcev": "2549.00"
+  },
+  {
+    "obcina": "Gornji Petrovci",
+    "leto": "2025",
+    "stevilo_studentov": "34.00",
+    "stevilo_prebivalcev": "1964.00"
+  },
+  {
+    "obcina": "Grad",
+    "leto": "2025",
+    "stevilo_studentov": "55.00",
+    "stevilo_prebivalcev": "1969.00"
+  },
+  {
+    "obcina": "Grosuplje",
+    "leto": "2025",
+    "stevilo_studentov": "933.00",
+    "stevilo_prebivalcev": "22050.00"
+  },
+  {
+    "obcina": "Hajdina",
+    "leto": "2025",
+    "stevilo_studentov": "137.00",
+    "stevilo_prebivalcev": "4059.00"
+  },
+  {
+    "obcina": "Hoče - Slivnica",
+    "leto": "2025",
+    "stevilo_studentov": "426.00",
+    "stevilo_prebivalcev": "11913.00"
+  },
+  {
+    "obcina": "Hodoš/Hodos",
+    "leto": "2025",
+    "stevilo_studentov": "5.00",
+    "stevilo_prebivalcev": "335.00"
+  },
+  {
+    "obcina": "Horjul",
+    "leto": "2025",
+    "stevilo_studentov": "113.00",
+    "stevilo_prebivalcev": "3051.00"
+  },
+  {
+    "obcina": "Hrastnik",
+    "leto": "2025",
+    "stevilo_studentov": "265.00",
+    "stevilo_prebivalcev": "8820.00"
+  },
+  {
+    "obcina": "Hrpelje - Kozina",
+    "leto": "2025",
+    "stevilo_studentov": "148.00",
+    "stevilo_prebivalcev": "5356.00"
+  },
+  {
+    "obcina": "Idrija",
+    "leto": "2025",
+    "stevilo_studentov": "388.00",
+    "stevilo_prebivalcev": "11673.00"
+  },
+  {
+    "obcina": "Ig",
+    "leto": "2025",
+    "stevilo_studentov": "270.00",
+    "stevilo_prebivalcev": "7926.00"
+  },
+  {
+    "obcina": "Ilirska Bistrica",
+    "leto": "2025",
+    "stevilo_studentov": "431.00",
+    "stevilo_prebivalcev": "13255.00"
+  },
+  {
+    "obcina": "Ivančna Gorica",
+    "leto": "2025",
+    "stevilo_studentov": "688.00",
+    "stevilo_prebivalcev": "18267.00"
+  },
+  {
+    "obcina": "Izola/Isola",
+    "leto": "2025",
+    "stevilo_studentov": "460.00",
+    "stevilo_prebivalcev": "16500.00"
+  },
+  {
+    "obcina": "Jesenice",
+    "leto": "2025",
+    "stevilo_studentov": "582.00",
+    "stevilo_prebivalcev": "21895.00"
+  },
+  {
+    "obcina": "Jezersko",
+    "leto": "2025",
+    "stevilo_studentov": "23.00",
+    "stevilo_prebivalcev": "681.00"
+  },
+  {
+    "obcina": "Juršinci",
+    "leto": "2025",
+    "stevilo_studentov": "62.00",
+    "stevilo_prebivalcev": "2478.00"
+  },
+  {
+    "obcina": "Kamnik",
+    "leto": "2025",
+    "stevilo_studentov": "1082.00",
+    "stevilo_prebivalcev": "29885.00"
+  },
+  {
+    "obcina": "Kanal",
+    "leto": "2025",
+    "stevilo_studentov": "172.00",
+    "stevilo_prebivalcev": "5099.00"
+  },
+  {
+    "obcina": "Kidričevo",
+    "leto": "2025",
+    "stevilo_studentov": "227.00",
+    "stevilo_prebivalcev": "6673.00"
+  },
+  {
+    "obcina": "Kobarid",
+    "leto": "2025",
+    "stevilo_studentov": "160.00",
+    "stevilo_prebivalcev": "4026.00"
+  },
+  {
+    "obcina": "Kobilje",
+    "leto": "2025",
+    "stevilo_studentov": "13.00",
+    "stevilo_prebivalcev": "507.00"
+  },
+  {
+    "obcina": "Kočevje",
+    "leto": "2025",
+    "stevilo_studentov": "458.00",
+    "stevilo_prebivalcev": "15555.00"
+  },
+  {
+    "obcina": "Komen",
+    "leto": "2025",
+    "stevilo_studentov": "128.00",
+    "stevilo_prebivalcev": "3518.00"
+  },
+  {
+    "obcina": "Komenda",
+    "leto": "2025",
+    "stevilo_studentov": "280.00",
+    "stevilo_prebivalcev": "6761.00"
+  },
+  {
+    "obcina": "Koper/Capodistria",
+    "leto": "2025",
+    "stevilo_studentov": "1763.00",
+    "stevilo_prebivalcev": "54430.00"
+  },
+  {
+    "obcina": "Kostanjevica na Krki",
+    "leto": "2025",
+    "stevilo_studentov": "94.00",
+    "stevilo_prebivalcev": "2448.00"
+  },
+  {
+    "obcina": "Kostel",
+    "leto": "2025",
+    "stevilo_studentov": "23.00",
+    "stevilo_prebivalcev": "610.00"
+  },
+  {
+    "obcina": "Kozje",
+    "leto": "2025",
+    "stevilo_studentov": "96.00",
+    "stevilo_prebivalcev": "3002.00"
+  },
+  {
+    "obcina": "Kranj",
+    "leto": "2025",
+    "stevilo_studentov": "2079.00",
+    "stevilo_prebivalcev": "57384.00"
+  },
+  {
+    "obcina": "Kranjska Gora",
+    "leto": "2025",
+    "stevilo_studentov": "149.00",
+    "stevilo_prebivalcev": "5214.00"
+  },
+  {
+    "obcina": "Križevci",
+    "leto": "2025",
+    "stevilo_studentov": "114.00",
+    "stevilo_prebivalcev": "3528.00"
+  },
+  {
+    "obcina": "Krško",
+    "leto": "2025",
+    "stevilo_studentov": "895.00",
+    "stevilo_prebivalcev": "26175.00"
+  },
+  {
+    "obcina": "Kungota",
+    "leto": "2025",
+    "stevilo_studentov": "176.00",
+    "stevilo_prebivalcev": "5072.00"
+  },
+  {
+    "obcina": "Kuzma",
+    "leto": "2025",
+    "stevilo_studentov": "19.00",
+    "stevilo_prebivalcev": "1630.00"
+  },
+  {
+    "obcina": "Laško",
+    "leto": "2025",
+    "stevilo_studentov": "439.00",
+    "stevilo_prebivalcev": "13047.00"
+  },
+  {
+    "obcina": "Lenart",
+    "leto": "2025",
+    "stevilo_studentov": "281.00",
+    "stevilo_prebivalcev": "8574.00"
+  },
+  {
+    "obcina": "Lendava/Lendva",
+    "leto": "2025",
+    "stevilo_studentov": "249.00",
+    "stevilo_prebivalcev": "10125.00"
+  },
+  {
+    "obcina": "Litija",
+    "leto": "2025",
+    "stevilo_studentov": "571.00",
+    "stevilo_prebivalcev": "15882.00"
+  },
+  {
+    "obcina": "Ljubljana",
+    "leto": "2025",
+    "stevilo_studentov": "10633.00",
+    "stevilo_prebivalcev": "300354.00"
+  },
+  {
+    "obcina": "Ljubno",
+    "leto": "2025",
+    "stevilo_studentov": "95.00",
+    "stevilo_prebivalcev": "2524.00"
+  },
+  {
+    "obcina": "Ljutomer",
+    "leto": "2025",
+    "stevilo_studentov": "373.00",
+    "stevilo_prebivalcev": "10955.00"
+  },
+  {
+    "obcina": "Log - Dragomer",
+    "leto": "2025",
+    "stevilo_studentov": "193.00",
+    "stevilo_prebivalcev": "3860.00"
+  },
+  {
+    "obcina": "Logatec",
+    "leto": "2025",
+    "stevilo_studentov": "568.00",
+    "stevilo_prebivalcev": "15071.00"
+  },
+  {
+    "obcina": "Loška dolina",
+    "leto": "2025",
+    "stevilo_studentov": "131.00",
+    "stevilo_prebivalcev": "3506.00"
+  },
+  {
+    "obcina": "Loški Potok",
+    "leto": "2025",
+    "stevilo_studentov": "54.00",
+    "stevilo_prebivalcev": "1835.00"
+  },
+  {
+    "obcina": "Lovrenc na Pohorju",
+    "leto": "2025",
+    "stevilo_studentov": "88.00",
+    "stevilo_prebivalcev": "2944.00"
+  },
+  {
+    "obcina": "Luče",
+    "leto": "2025",
+    "stevilo_studentov": "57.00",
+    "stevilo_prebivalcev": "1419.00"
+  },
+  {
+    "obcina": "Lukovica",
+    "leto": "2025",
+    "stevilo_studentov": "192.00",
+    "stevilo_prebivalcev": "6186.00"
+  },
+  {
+    "obcina": "Majšperk",
+    "leto": "2025",
+    "stevilo_studentov": "127.00",
+    "stevilo_prebivalcev": "3983.00"
+  },
+  {
+    "obcina": "Makole",
+    "leto": "2025",
+    "stevilo_studentov": "67.00",
+    "stevilo_prebivalcev": "2058.00"
+  },
+  {
+    "obcina": "Maribor",
+    "leto": "2025",
+    "stevilo_studentov": "3375.00",
+    "stevilo_prebivalcev": "114301.00"
+  },
+  {
+    "obcina": "Markovci",
+    "leto": "2025",
+    "stevilo_studentov": "125.00",
+    "stevilo_prebivalcev": "4073.00"
+  },
+  {
+    "obcina": "Medvode",
+    "leto": "2025",
+    "stevilo_studentov": "701.00",
+    "stevilo_prebivalcev": "17296.00"
+  },
+  {
+    "obcina": "Mengeš",
+    "leto": "2025",
+    "stevilo_studentov": "332.00",
+    "stevilo_prebivalcev": "8684.00"
+  },
+  {
+    "obcina": "Metlika",
+    "leto": "2025",
+    "stevilo_studentov": "299.00",
+    "stevilo_prebivalcev": "8572.00"
+  },
+  {
+    "obcina": "Mežica",
+    "leto": "2025",
+    "stevilo_studentov": "105.00",
+    "stevilo_prebivalcev": "3518.00"
+  },
+  {
+    "obcina": "Miklavž na Dravskem polju",
+    "leto": "2025",
+    "stevilo_studentov": "270.00",
+    "stevilo_prebivalcev": "7261.00"
+  },
+  {
+    "obcina": "Miren - Kostanjevica",
+    "leto": "2025",
+    "stevilo_studentov": "159.00",
+    "stevilo_prebivalcev": "5060.00"
+  },
+  {
+    "obcina": "Mirna",
+    "leto": "2025",
+    "stevilo_studentov": "89.00",
+    "stevilo_prebivalcev": "2822.00"
+  },
+  {
+    "obcina": "Mirna Peč",
+    "leto": "2025",
+    "stevilo_studentov": "132.00",
+    "stevilo_prebivalcev": "3203.00"
+  },
+  {
+    "obcina": "Mislinja",
+    "leto": "2025",
+    "stevilo_studentov": "179.00",
+    "stevilo_prebivalcev": "4521.00"
+  },
+  {
+    "obcina": "Mokronog - Trebelno",
+    "leto": "2025",
+    "stevilo_studentov": "117.00",
+    "stevilo_prebivalcev": "3270.00"
+  },
+  {
+    "obcina": "Moravče",
+    "leto": "2025",
+    "stevilo_studentov": "210.00",
+    "stevilo_prebivalcev": "5670.00"
+  },
+  {
+    "obcina": "Moravske Toplice",
+    "leto": "2025",
+    "stevilo_studentov": "216.00",
+    "stevilo_prebivalcev": "5957.00"
+  },
+  {
+    "obcina": "Mozirje",
+    "leto": "2025",
+    "stevilo_studentov": "187.00",
+    "stevilo_prebivalcev": "4503.00"
+  },
+  {
+    "obcina": "Murska Sobota",
+    "leto": "2025",
+    "stevilo_studentov": "642.00",
+    "stevilo_prebivalcev": "18429.00"
+  },
+  {
+    "obcina": "Muta",
+    "leto": "2025",
+    "stevilo_studentov": "88.00",
+    "stevilo_prebivalcev": "3363.00"
+  },
+  {
+    "obcina": "Naklo",
+    "leto": "2025",
+    "stevilo_studentov": "217.00",
+    "stevilo_prebivalcev": "5478.00"
+  },
+  {
+    "obcina": "Nazarje",
+    "leto": "2025",
+    "stevilo_studentov": "85.00",
+    "stevilo_prebivalcev": "2686.00"
+  },
+  {
+    "obcina": "Nova Gorica",
+    "leto": "2025",
+    "stevilo_studentov": "1114.00",
+    "stevilo_prebivalcev": "31906.00"
+  },
+  {
+    "obcina": "Novo mesto",
+    "leto": "2025",
+    "stevilo_studentov": "1469.00",
+    "stevilo_prebivalcev": "38669.00"
+  },
+  {
+    "obcina": "Odranci",
+    "leto": "2025",
+    "stevilo_studentov": "40.00",
+    "stevilo_prebivalcev": "1600.00"
+  },
+  {
+    "obcina": "Oplotnica",
+    "leto": "2025",
+    "stevilo_studentov": "135.00",
+    "stevilo_prebivalcev": "4203.00"
+  },
+  {
+    "obcina": "Ormož",
+    "leto": "2025",
+    "stevilo_studentov": "387.00",
+    "stevilo_prebivalcev": "11849.00"
+  },
+  {
+    "obcina": "Osilnica",
+    "leto": "2025",
+    "stevilo_studentov": "7.00",
+    "stevilo_prebivalcev": "329.00"
+  },
+  {
+    "obcina": "Pesnica",
+    "leto": "2025",
+    "stevilo_studentov": "230.00",
+    "stevilo_prebivalcev": "7819.00"
+  },
+  {
+    "obcina": "Piran/Pirano",
+    "leto": "2025",
+    "stevilo_studentov": "470.00",
+    "stevilo_prebivalcev": "18113.00"
+  },
+  {
+    "obcina": "Pivka",
+    "leto": "2025",
+    "stevilo_studentov": "229.00",
+    "stevilo_prebivalcev": "6131.00"
+  },
+  {
+    "obcina": "Podčetrtek",
+    "leto": "2025",
+    "stevilo_studentov": "109.00",
+    "stevilo_prebivalcev": "3653.00"
+  },
+  {
+    "obcina": "Podlehnik",
+    "leto": "2025",
+    "stevilo_studentov": "53.00",
+    "stevilo_prebivalcev": "1821.00"
+  },
+  {
+    "obcina": "Podvelka",
+    "leto": "2025",
+    "stevilo_studentov": "73.00",
+    "stevilo_prebivalcev": "2228.00"
+  },
+  {
+    "obcina": "Poljčane",
+    "leto": "2025",
+    "stevilo_studentov": "139.00",
+    "stevilo_prebivalcev": "4398.00"
+  },
+  {
+    "obcina": "Polzela",
+    "leto": "2025",
+    "stevilo_studentov": "276.00",
+    "stevilo_prebivalcev": "6629.00"
+  },
+  {
+    "obcina": "Postojna",
+    "leto": "2025",
+    "stevilo_studentov": "547.00",
+    "stevilo_prebivalcev": "17532.00"
+  },
+  {
+    "obcina": "Prebold",
+    "leto": "2025",
+    "stevilo_studentov": "199.00",
+    "stevilo_prebivalcev": "5317.00"
+  },
+  {
+    "obcina": "Preddvor",
+    "leto": "2025",
+    "stevilo_studentov": "172.00",
+    "stevilo_prebivalcev": "3934.00"
+  },
+  {
+    "obcina": "Prevalje",
+    "leto": "2025",
+    "stevilo_studentov": "231.00",
+    "stevilo_prebivalcev": "6701.00"
+  },
+  {
+    "obcina": "Ptuj",
+    "leto": "2025",
+    "stevilo_studentov": "808.00",
+    "stevilo_prebivalcev": "23920.00"
+  },
+  {
+    "obcina": "Puconci",
+    "leto": "2025",
+    "stevilo_studentov": "154.00",
+    "stevilo_prebivalcev": "5818.00"
+  },
+  {
+    "obcina": "Rače - Fram",
+    "leto": "2025",
+    "stevilo_studentov": "306.00",
+    "stevilo_prebivalcev": "8167.00"
+  },
+  {
+    "obcina": "Radeče",
+    "leto": "2025",
+    "stevilo_studentov": "131.00",
+    "stevilo_prebivalcev": "4078.00"
+  },
+  {
+    "obcina": "Radenci",
+    "leto": "2025",
+    "stevilo_studentov": "175.00",
+    "stevilo_prebivalcev": "5065.00"
+  },
+  {
+    "obcina": "Radlje ob Dravi",
+    "leto": "2025",
+    "stevilo_studentov": "206.00",
+    "stevilo_prebivalcev": "6221.00"
+  },
+  {
+    "obcina": "Radovljica",
+    "leto": "2025",
+    "stevilo_studentov": "670.00",
+    "stevilo_prebivalcev": "19373.00"
+  },
+  {
+    "obcina": "Ravne na Koroškem",
+    "leto": "2025",
+    "stevilo_studentov": "410.00",
+    "stevilo_prebivalcev": "11191.00"
+  },
+  {
+    "obcina": "Razkrižje",
+    "leto": "2025",
+    "stevilo_studentov": "34.00",
+    "stevilo_prebivalcev": "1216.00"
+  },
+  {
+    "obcina": "Rečica ob Savinji",
+    "leto": "2025",
+    "stevilo_studentov": "62.00",
+    "stevilo_prebivalcev": "2326.00"
+  },
+  {
+    "obcina": "Renče - Vogrsko",
+    "leto": "2025",
+    "stevilo_studentov": "153.00",
+    "stevilo_prebivalcev": "4414.00"
+  },
+  {
+    "obcina": "Ribnica",
+    "leto": "2025",
+    "stevilo_studentov": "306.00",
+    "stevilo_prebivalcev": "9854.00"
+  },
+  {
+    "obcina": "Ribnica na Pohorju",
+    "leto": "2025",
+    "stevilo_studentov": "36.00",
+    "stevilo_prebivalcev": "1099.00"
+  },
+  {
+    "obcina": "Rogaška Slatina",
+    "leto": "2025",
+    "stevilo_studentov": "403.00",
+    "stevilo_prebivalcev": "11674.00"
+  },
+  {
+    "obcina": "Rogašovci",
+    "leto": "2025",
+    "stevilo_studentov": "62.00",
+    "stevilo_prebivalcev": "3046.00"
+  },
+  {
+    "obcina": "Rogatec",
+    "leto": "2025",
+    "stevilo_studentov": "85.00",
+    "stevilo_prebivalcev": "3088.00"
+  },
+  {
+    "obcina": "Ruše",
+    "leto": "2025",
+    "stevilo_studentov": "245.00",
+    "stevilo_prebivalcev": "7175.00"
+  },
+  {
+    "obcina": "Selnica ob Dravi",
+    "leto": "2025",
+    "stevilo_studentov": "144.00",
+    "stevilo_prebivalcev": "4402.00"
+  },
+  {
+    "obcina": "Semič",
+    "leto": "2025",
+    "stevilo_studentov": "119.00",
+    "stevilo_prebivalcev": "3816.00"
+  },
+  {
+    "obcina": "Sevnica",
+    "leto": "2025",
+    "stevilo_studentov": "561.00",
+    "stevilo_prebivalcev": "17555.00"
+  },
+  {
+    "obcina": "Sežana",
+    "leto": "2025",
+    "stevilo_studentov": "418.00",
+    "stevilo_prebivalcev": "13729.00"
+  },
+  {
+    "obcina": "Slovenj Gradec",
+    "leto": "2025",
+    "stevilo_studentov": "684.00",
+    "stevilo_prebivalcev": "17067.00"
+  },
+  {
+    "obcina": "Slovenska Bistrica",
+    "leto": "2025",
+    "stevilo_studentov": "991.00",
+    "stevilo_prebivalcev": "26265.00"
+  },
+  {
+    "obcina": "Slovenske Konjice",
+    "leto": "2025",
+    "stevilo_studentov": "560.00",
+    "stevilo_prebivalcev": "15515.00"
+  },
+  {
+    "obcina": "Sodražica",
+    "leto": "2025",
+    "stevilo_studentov": "96.00",
+    "stevilo_prebivalcev": "2318.00"
+  },
+  {
+    "obcina": "Solčava",
+    "leto": "2025",
+    "stevilo_studentov": "24.00",
+    "stevilo_prebivalcev": "504.00"
+  },
+  {
+    "obcina": "Središče ob Dravi",
+    "leto": "2025",
+    "stevilo_studentov": "43.00",
+    "stevilo_prebivalcev": "1839.00"
+  },
+  {
+    "obcina": "Starše",
+    "leto": "2025",
+    "stevilo_studentov": "144.00",
+    "stevilo_prebivalcev": "4128.00"
+  },
+  {
+    "obcina": "Straža",
+    "leto": "2025",
+    "stevilo_studentov": "160.00",
+    "stevilo_prebivalcev": "3980.00"
+  },
+  {
+    "obcina": "Sveta Ana",
+    "leto": "2025",
+    "stevilo_studentov": "66.00",
+    "stevilo_prebivalcev": "2376.00"
+  },
+  {
+    "obcina": "Sveta Trojica v Slov. goricah",
+    "leto": "2025",
+    "stevilo_studentov": "62.00",
+    "stevilo_prebivalcev": "2270.00"
+  },
+  {
+    "obcina": "Sveti Andraž v Slov. goricah",
+    "leto": "2025",
+    "stevilo_studentov": "35.00",
+    "stevilo_prebivalcev": "1184.00"
+  },
+  {
+    "obcina": "Sveti Jurij ob Ščavnici",
+    "leto": "2025",
+    "stevilo_studentov": "82.00",
+    "stevilo_prebivalcev": "2795.00"
+  },
+  {
+    "obcina": "Sveti Jurij v Slov. goricah",
+    "leto": "2025",
+    "stevilo_studentov": "91.00",
+    "stevilo_prebivalcev": "2180.00"
+  },
+  {
+    "obcina": "Sveti Tomaž",
+    "leto": "2025",
+    "stevilo_studentov": "53.00",
+    "stevilo_prebivalcev": "1988.00"
+  },
+  {
+    "obcina": "Šalovci",
+    "leto": "2025",
+    "stevilo_studentov": "23.00",
+    "stevilo_prebivalcev": "1343.00"
+  },
+  {
+    "obcina": "Šempeter - Vrtojba",
+    "leto": "2025",
+    "stevilo_studentov": "223.00",
+    "stevilo_prebivalcev": "6383.00"
+  },
+  {
+    "obcina": "Šenčur",
+    "leto": "2025",
+    "stevilo_studentov": "413.00",
+    "stevilo_prebivalcev": "8875.00"
+  },
+  {
+    "obcina": "Šentilj",
+    "leto": "2025",
+    "stevilo_studentov": "236.00",
+    "stevilo_prebivalcev": "8386.00"
+  },
+  {
+    "obcina": "Šentjernej",
+    "leto": "2025",
+    "stevilo_studentov": "266.00",
+    "stevilo_prebivalcev": "7438.00"
+  },
+  {
+    "obcina": "Šentjur",
+    "leto": "2025",
+    "stevilo_studentov": "731.00",
+    "stevilo_prebivalcev": "19646.00"
+  },
+  {
+    "obcina": "Šentrupert",
+    "leto": "2025",
+    "stevilo_studentov": "109.00",
+    "stevilo_prebivalcev": "2936.00"
+  },
+  {
+    "obcina": "Škocjan",
+    "leto": "2025",
+    "stevilo_studentov": "126.00",
+    "stevilo_prebivalcev": "3577.00"
+  },
+  {
+    "obcina": "Škofja Loka",
+    "leto": "2025",
+    "stevilo_studentov": "939.00",
+    "stevilo_prebivalcev": "23884.00"
+  },
+  {
+    "obcina": "Škofljica",
+    "leto": "2025",
+    "stevilo_studentov": "499.00",
+    "stevilo_prebivalcev": "12124.00"
+  },
+  {
+    "obcina": "Šmarje pri Jelšah",
+    "leto": "2025",
+    "stevilo_studentov": "412.00",
+    "stevilo_prebivalcev": "10512.00"
+  },
+  {
+    "obcina": "Šmarješke Toplice",
+    "leto": "2025",
+    "stevilo_studentov": "154.00",
+    "stevilo_prebivalcev": "3607.00"
+  },
+  {
+    "obcina": "Šmartno ob Paki",
+    "leto": "2025",
+    "stevilo_studentov": "131.00",
+    "stevilo_prebivalcev": "3407.00"
+  },
+  {
+    "obcina": "Šmartno pri Litiji",
+    "leto": "2025",
+    "stevilo_studentov": "194.00",
+    "stevilo_prebivalcev": "5810.00"
+  },
+  {
+    "obcina": "Šoštanj",
+    "leto": "2025",
+    "stevilo_studentov": "291.00",
+    "stevilo_prebivalcev": "9007.00"
+  },
+  {
+    "obcina": "Štore",
+    "leto": "2025",
+    "stevilo_studentov": "128.00",
+    "stevilo_prebivalcev": "4481.00"
+  },
+  {
+    "obcina": "Tabor",
+    "leto": "2025",
+    "stevilo_studentov": "54.00",
+    "stevilo_prebivalcev": "1789.00"
+  },
+  {
+    "obcina": "Tišina",
+    "leto": "2025",
+    "stevilo_studentov": "137.00",
+    "stevilo_prebivalcev": "3905.00"
+  },
+  {
+    "obcina": "Tolmin",
+    "leto": "2025",
+    "stevilo_studentov": "364.00",
+    "stevilo_prebivalcev": "10754.00"
+  },
+  {
+    "obcina": "Trbovlje",
+    "leto": "2025",
+    "stevilo_studentov": "421.00",
+    "stevilo_prebivalcev": "16002.00"
+  },
+  {
+    "obcina": "Trebnje",
+    "leto": "2025",
+    "stevilo_studentov": "476.00",
+    "stevilo_prebivalcev": "13695.00"
+  },
+  {
+    "obcina": "Trnovska vas",
+    "leto": "2025",
+    "stevilo_studentov": "46.00",
+    "stevilo_prebivalcev": "1397.00"
+  },
+  {
+    "obcina": "Trzin",
+    "leto": "2025",
+    "stevilo_studentov": "188.00",
+    "stevilo_prebivalcev": "4026.00"
+  },
+  {
+    "obcina": "Tržič",
+    "leto": "2025",
+    "stevilo_studentov": "452.00",
+    "stevilo_prebivalcev": "15110.00"
+  },
+  {
+    "obcina": "Turnišče",
+    "leto": "2025",
+    "stevilo_studentov": "101.00",
+    "stevilo_prebivalcev": "3112.00"
+  },
+  {
+    "obcina": "Velenje",
+    "leto": "2025",
+    "stevilo_studentov": "1149.00",
+    "stevilo_prebivalcev": "33930.00"
+  },
+  {
+    "obcina": "Velika Polana",
+    "leto": "2025",
+    "stevilo_studentov": "35.00",
+    "stevilo_prebivalcev": "1392.00"
+  },
+  {
+    "obcina": "Velike Lašče",
+    "leto": "2025",
+    "stevilo_studentov": "196.00",
+    "stevilo_prebivalcev": "4564.00"
+  },
+  {
+    "obcina": "Veržej",
+    "leto": "2025",
+    "stevilo_studentov": "47.00",
+    "stevilo_prebivalcev": "1379.00"
+  },
+  {
+    "obcina": "Videm",
+    "leto": "2025",
+    "stevilo_studentov": "163.00",
+    "stevilo_prebivalcev": "5612.00"
+  },
+  {
+    "obcina": "Vipava",
+    "leto": "2025",
+    "stevilo_studentov": "240.00",
+    "stevilo_prebivalcev": "5875.00"
+  },
+  {
+    "obcina": "Vitanje",
+    "leto": "2025",
+    "stevilo_studentov": "96.00",
+    "stevilo_prebivalcev": "2202.00"
+  },
+  {
+    "obcina": "Vodice",
+    "leto": "2025",
+    "stevilo_studentov": "282.00",
+    "stevilo_prebivalcev": "5234.00"
+  },
+  {
+    "obcina": "Vojnik",
+    "leto": "2025",
+    "stevilo_studentov": "405.00",
+    "stevilo_prebivalcev": "9333.00"
+  },
+  {
+    "obcina": "Vransko",
+    "leto": "2025",
+    "stevilo_studentov": "106.00",
+    "stevilo_prebivalcev": "2763.00"
+  },
+  {
+    "obcina": "Vrhnika",
+    "leto": "2025",
+    "stevilo_studentov": "726.00",
+    "stevilo_prebivalcev": "18206.00"
+  },
+  {
+    "obcina": "Vuzenica",
+    "leto": "2025",
+    "stevilo_studentov": "87.00",
+    "stevilo_prebivalcev": "2621.00"
+  },
+  {
+    "obcina": "Zagorje ob Savi",
+    "leto": "2025",
+    "stevilo_studentov": "617.00",
+    "stevilo_prebivalcev": "16379.00"
+  },
+  {
+    "obcina": "Zavrč",
+    "leto": "2025",
+    "stevilo_studentov": "49.00",
+    "stevilo_prebivalcev": "1471.00"
+  },
+  {
+    "obcina": "Zreče",
+    "leto": "2025",
+    "stevilo_studentov": "272.00",
+    "stevilo_prebivalcev": "6654.00"
+  },
+  {
+    "obcina": "Žalec",
+    "leto": "2025",
+    "stevilo_studentov": "775.00",
+    "stevilo_prebivalcev": "21823.00"
+  },
+  {
+    "obcina": "Železniki",
+    "leto": "2025",
+    "stevilo_studentov": "282.00",
+    "stevilo_prebivalcev": "6670.00"
+  },
+  {
+    "obcina": "Žetale",
+    "leto": "2025",
+    "stevilo_studentov": "43.00",
+    "stevilo_prebivalcev": "1318.00"
+  },
+  {
+    "obcina": "Žiri",
+    "leto": "2025",
+    "stevilo_studentov": "208.00",
+    "stevilo_prebivalcev": "5106.00"
+  },
+  {
+    "obcina": "Žirovnica",
+    "leto": "2025",
+    "stevilo_studentov": "166.00",
+    "stevilo_prebivalcev": "4525.00"
+  },
+  {
+    "obcina": "Žužemberk",
+    "leto": "2025",
+    "stevilo_studentov": "165.00",
+    "stevilo_prebivalcev": "4691.00"
+  }
+]
